@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.main-holder {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  color: white;
+}
+.image {
+  width: 40%;
+}
+.para {
+  margin-bottom: 40px;
+}
+.btn1 {
+  background-color: #0b69ff;
+  border-style: none;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  width: 80px;
+  font-size: small;
+  margin-right: 20px;
+}
+.btn2 {
+  background-color: black;
+  border-color: white;
+  color: white;
+  border-radius: 5px;
+  padding: 3px;
+  font-size: small;
+}
